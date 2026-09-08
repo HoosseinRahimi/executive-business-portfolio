@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hoosseinrahimi.github.io/executive-business-portfolio/sitemap.xml
